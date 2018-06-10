@@ -1,0 +1,20 @@
+{
+    "name": "spipremix/menus",
+    "homepage": "https://contrib.spip.net/Menus-3139",
+    "description": "Élaborer des menus au moyen d’une interface conviviale",
+    "type": "spip-plugin",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "RastaPopoulos",
+            "email": "rastapopoulos@spip.org"
+        },
+        {
+            "homepage": "http://www.ldd.fr",
+            "name": "Les Développements Durables"
+        }
+    ],
+    "require": {
+        "spipremix/saisies": "^2.25"
+    }
+}
